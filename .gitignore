@@ -1,0 +1,51 @@
+# https://raw.githubusercontent.com/github/gitignore/master/TeX.gitignore
+
+# Core latex/pdflatex auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# Intermediate documents
+*.dvi
+*.xdv
+*-converted-to.*
+
+# Bibliography auxiliary files (bibtex/biblatex/biber)
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Custom files and folders
+.DS_Store
+*.*~
+*.asc
+*.docx
+*.eml
+*.gpg
+*.pdf
+*.psd
+*.swp
+
+# Markdown transition
+*.bib
+*.tex
