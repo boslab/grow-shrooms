@@ -4,7 +4,7 @@ author: Peter J. Collins
 date: 2018-08-23
 ---
 
-![Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle)](lifecycle.png)
+![Image used with permission from Paul Stamets and Fungi Perfecti---https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle](lifecycle.png)
 
 # Introduction
 
@@ -20,7 +20,7 @@ This paper describes a simple method that doesn't require you to recreate a lab 
 Gourmet mushrooms are relatively new to Commonwealth cuisine and medicine compared to those of nations such as France, Italy, Russia, and Japan.
 As a result of this and the success of the 1970s pioneers, nearly everyone in the U.S. from the man on the street to the DEA policymaker assumes psychoactives at the words "mushroom cultivation."
 
-Information from websites like [the Shroomery](https://www.shroomery.org/forums/) usually fails to account for personal security and describes inappropriate methods for urban gourmands who seek to implement a rotating closet garden.
+Information from websites like the [Shroomery](https://www.shroomery.org/forums/) usually fails to account for personal security and describes inappropriate methods for urban gourmands who seek to implement a rotating closet garden.
 
 The risks are real and significant because most species look like fuzzy white containers most of the time.
 To the untrained eye, genuine and illicit are indistinguishable until fruitbodies appear.
@@ -43,7 +43,7 @@ But only if you heed my security warning.
 - agar and malt extract
 - dead air box or clear tote
 - jelly and pint jars
-- 23 qt pressure cooker
+- 25 qt pressure cooker
 - toothpicks and cotton swabs
 - ≥ 10 mL syringes and ≤ 18G needles (optional)
 
@@ -58,6 +58,9 @@ But only if you heed my security warning.
 
 # Protocol
 
+
+![Printing white shiitake spores on black cardstock](shiitake.print.jpg)
+
 ## Germinating spores
 
 Increment the generation for 7--10 spore-to-shroom grows if you wish to domesticate a variety, e.g., donko (cracked cap) shiitake.
@@ -69,6 +72,8 @@ Make many germination plates to ensure the fittest progeny in a diverse populati
 
 To make a spore print, sever the mature cap, place it on foil under glass for 12--24 hrs, then fold it into more foil and store it in a plastic bag.
 
+
+![Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm](media.plates.jpg)
 
 ## Tissue culture
 
