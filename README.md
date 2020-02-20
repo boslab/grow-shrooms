@@ -1,10 +1,6 @@
----
-title: Mushroom cultivation for cell biologists
-author: Peter J. Collins
-date: 2018-08-23
----
-
-![Image used with permission from Paul Stamets and Fungi Perfecti---https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle](lifecycle.png)
+| ![](lifecycle.png)	|
+| :---			|
+| Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle) |
 
 # Introduction
 
@@ -63,14 +59,14 @@ But only if you heed my security warning.
 
 ## Germinating spores
 
-Increment the generation for 7--10 spore-to-shroom grows if you wish to domesticate a variety, e.g., donko (cracked cap) shiitake.
+Increment the generation for 7–10 spore-to-shroom grows if you wish to domesticate a variety, e.g., donko (cracked cap) shiitake.
 Working with spores is optional and usually unnecessary for most of the edible fungi you can acquire and cultivate at home.
 
 One print to many germination plates is a good balance.
 Take spores from a model specimen to advance the lineage.
 Make many germination plates to ensure the fittest progeny in a diverse population.
 
-To make a spore print, sever the mature cap, place it on foil under glass for 12--24 hrs, then fold it into more foil and store it in a plastic bag.
+To make a spore print, sever the mature cap, place it on foil under glass for 12–24 hrs, then fold it into more foil and store it in a plastic bag.
 
 
 ![Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm](media.plates.jpg)
@@ -93,7 +89,7 @@ For 2 dozen jelly jars:
 - 1g peptone or yeast (optional)
 
 There are many ways to acquire gourmet mushroom cultures for free.
-Sanitize and tear apart foraged or purchased mushrooms within 1--2 days of harvesting.
+Sanitize and tear apart foraged or purchased mushrooms within 1–2 days of harvesting.
 Take flesh from inside the stem base and regenerate the culture on agar.
 Trade colonized agar blocks with friends.
 
@@ -106,14 +102,14 @@ Once you have a clean, vigorous, and non-sectoring plate, refrigerate it for lat
 
 The MEA recipe above minus agar makes two pint jars with room to breathe.
 Loosen and foil the lids, then sterilize the broth and supplies for 15 min.
-Test the ferment on agar after 2--3 days.
+Test the ferment on agar after 2–3 days.
 
 Syringes and needles greatly help with inoculation.
 Take up ≤ 1 mL sterile water, poke the colonized plate, and inject through a port.
 Otherwise, manually transfer tissue and avoid the jar sides.
 
 A healthy culture comes to resemble an amorphous ball near the bottom when left undisturbed, something of an imperfect fractal.
-Gently swirl it 2--3× daily for up to 2 weeks at room temperature.
+Gently swirl it 2–3× daily for up to 2 weeks at room temperature.
 
 
 ## Inoculating substrate
@@ -131,15 +127,15 @@ For 1 plastic pint round:
 
 - 100g (2/3c) hardwood fuel pellets or coco coir
 - 30g (1/3c) wheat bran and other supplements
-- 5--7g (1 tsp) gypsum or sea salt
+- 5–7g (1 tsp) gypsum or sea salt
 - your last coffee grounds (optional)
 
 A 23 qt pressure cooker comfortably fits 12 pints of substrate.
 This is 1 qt base, 2c supplement, and 2 tbsp salt per loosely packed load.
-Hydrate the substrate to field capacity or when a small rivulet stops 1--2s after you tightly squeeze a sample.
-Loosen and foil the lids, then sterilize for 90--120 min.
+Hydrate the substrate to field capacity or when a small rivulet stops 1–2s after you tightly squeeze a sample.
+Loosen and foil the lids, then sterilize for 90–120 min.
 
-Use 10--20 mL inoculum per pint of substrate or just enough to avoid standing water.
+Use 10–20 mL inoculum per pint of substrate or just enough to avoid standing water.
 Syringes and needles help.
 Then tighten the lids, vigorously shake them, gently tap them down, and sanitize them with 70% EtOH.
 

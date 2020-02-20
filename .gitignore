@@ -1,4 +1,25 @@
-# https://raw.githubusercontent.com/github/gitignore/master/TeX.gitignore
+##
+## https://pjc.is/me/templates
+#
+
+# Common junk files
+.DS_Store
+*.sw*
+
+# Private files and backups
+*.*~
+*.doc
+*.docx
+*.eml
+
+# GPG file signatures for PDF releases
+# To be replaced by signed Git commits
+*.pdf.asc
+
+
+##
+## https://github.com/github/gitignore/blob/master/TeX.gitignore
+#
 
 # Core latex/pdflatex auxiliary files
 *.aux
@@ -19,6 +40,9 @@
 *.xdv
 *-converted-to.*
 
+# Generated if empty string is given at "Please type another file name for output"
+.pdf
+
 # Bibliography auxiliary files (bibtex/biblatex/biber)
 *.bbl
 *.bcf
@@ -34,18 +58,3 @@
 *.synctex.gz
 *.synctex.gz(busy)
 *.pdfsync
-
-# Custom files and folders
-.DS_Store
-*.*~
-*.asc
-*.docx
-*.eml
-*.gpg
-*.pdf
-*.psd
-*.swp
-
-# Markdown transition
-*.bib
-*.tex
