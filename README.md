@@ -2,6 +2,7 @@
 | :---			|
 | Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle) |
 
+
 # Introduction
 
 The scientific literature on cultivating mushrooms for food typically seeks to establish the relative yield potential of oyster mushrooms on fibrous industrial refuse such as bagasse, newspapers, and tree stumps.
@@ -52,10 +53,12 @@ But only if you heed my security warning.
 - wheat bran and/or other nitrogen
 
 
+| ![](shiitake.print.jpg)	|
+| :---				|
+| Printing white shiitake spores on black cardstock |
+
+
 # Protocol
-
-
-![Printing white shiitake spores on black cardstock](shiitake.print.jpg)
 
 ## Germinating spores
 
@@ -68,8 +71,6 @@ Make many germination plates to ensure the fittest progeny in a diverse populati
 
 To make a spore print, sever the mature cap, place it on foil under glass for 12–24 hrs, then fold it into more foil and store it in a plastic bag.
 
-
-![Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm](media.plates.jpg)
 
 ## Tissue culture
 
@@ -96,6 +97,11 @@ Trade colonized agar blocks with friends.
 Swab spores in an *M* pattern and expect them to contaminate.
 Spores are inherently dirty and it's important to transfer the best germination fast.
 Once you have a clean, vigorous, and non-sectoring plate, refrigerate it for later reference.
+
+
+| ![](media.plates.jpg)	|
+| :---			|
+| Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm |
 
 
 ## Fermenting aerobically
@@ -143,7 +149,10 @@ Loosen the lids and incubate them at room temperature for 1 week past full colon
 Shiitake requires +1 month to cure and form a protective brown skin.
 
 
-![Duplex mini monotub](duplex.monotub.jpg)
+| ![](duplex.monotub.jpg)	|
+| :---				|
+| Duplex mini monotub		|
+
 
 ## Fruiting and harvesting
 
