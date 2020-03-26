@@ -1,5 +1,5 @@
 | ![](lifecycle.png)	|
-| :---			|
+| :--			|
 | Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle) |
 
 
@@ -54,7 +54,7 @@ But only if you heed my security warning.
 
 
 | ![](shiitake.print.jpg)	|
-| :---				|
+| :--				|
 | Printing white shiitake spores on black cardstock |
 
 
@@ -100,7 +100,7 @@ Once you have a clean, vigorous, and non-sectoring plate, refrigerate it for lat
 
 
 | ![](media.plates.jpg)	|
-| :---			|
+| :--			|
 | Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm |
 
 
@@ -150,7 +150,7 @@ Shiitake requires +1 month to cure and form a protective brown skin.
 
 
 | ![](duplex.monotub.jpg)	|
-| :---				|
+| :--				|
 | Duplex mini monotub		|
 
 
