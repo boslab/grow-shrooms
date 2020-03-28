@@ -1,5 +1,5 @@
-| ![](lifecycle.png)	|
-| :--			|
+| ![](pictures/lifecycle.png)	|
+| :--				|
 | Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle) |
 
 
@@ -53,8 +53,8 @@ But only if you heed my security warning.
 - wheat bran and/or other nitrogen
 
 
-| ![](shiitake.print.jpg)	|
-| :--				|
+| ![](pictures/shiitake.print.jpg)	|
+| :--					|
 | Printing white shiitake spores on black cardstock |
 
 
@@ -74,7 +74,7 @@ To make a spore print, sever the mature cap, place it on foil under glass for 12
 
 ## Tissue culture
 
-Increment [the Stamets P Value](http://www.fungi.com/blog/items/what-is-the-stamets-p-value-system.html) for each plate and always work with the genetically youngest copy.
+Increment the [Stamets P Value](http://www.fungi.com/blog/items/what-is-the-stamets-p-value-system.html) for each plate and always work with the genetically youngest copy.
 Malt extract agar (MEA) selectively favors fungi at around pH 5.6 with a high peptone content.
 
 Pour the media directly into jelly jars.
@@ -99,8 +99,8 @@ Spores are inherently dirty and it's important to transfer the best germination 
 Once you have a clean, vigorous, and non-sectoring plate, refrigerate it for later reference.
 
 
-| ![](media.plates.jpg)	|
-| :--			|
+| ![](pictures/media.plates.jpg)	|
+| :--					|
 | Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm |
 
 
@@ -149,9 +149,9 @@ Loosen the lids and incubate them at room temperature for 1 week past full colon
 Shiitake requires +1 month to cure and form a protective brown skin.
 
 
-| ![](duplex.monotub.jpg)	|
-| :--				|
-| Duplex mini monotub		|
+| ![](pictures/duplex.monotub.jpg)	|
+| :--					|
+| Duplex mini monotub |
 
 
 ## Fruiting and harvesting
