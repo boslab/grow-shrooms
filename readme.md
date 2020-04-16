@@ -1,5 +1,5 @@
-| ![](pictures/lifecycle.png)	|
-| :--				|
+| ![](pictures/lifecycle.png) |
+| :-- |
 | Image used with permission from [Paul Stamets and Fungi Perfecti](https://hostdefense.com/blogs/host-defense-blog/the-mushroom-lifecycle) |
 
 
@@ -53,8 +53,8 @@ But only if you heed my security warning.
 - wheat bran and/or other nitrogen
 
 
-| ![](pictures/shiitake.print.jpg)	|
-| :--					|
+| ![](pictures/shiitake.print.jpg) |
+| :-- |
 | Printing white shiitake spores on black cardstock |
 
 
@@ -99,9 +99,9 @@ Spores are inherently dirty and it's important to transfer the best germination 
 Once you have a clean, vigorous, and non-sectoring plate, refrigerate it for later reference.
 
 
-| ![](pictures/media.plates.jpg)	|
-| :--					|
-| Mason jelly jars (4 oz) as reusable petri dishes: autoclavable, stackable, and don't consume Parafilm |
+| ![](pictures/plates.half.jpg) |
+| :-- |
+| Mason jelly jars (4 oz) as reusable petri dishes: readily available, autoclavable, stackable, and don't consume Parafilm. Two lid styles are shown: synthetic filter disks and polypropylene (preferred) |
 
 
 ## Fermenting aerobically
@@ -149,8 +149,8 @@ Loosen the lids and incubate them at room temperature for 1 week past full colon
 Shiitake requires +1 month to cure and form a protective brown skin.
 
 
-| ![](pictures/duplex.monotub.jpg)	|
-| :--					|
+| ![](pictures/duplex.monotub.jpg) |
+| :-- |
 | Duplex mini monotub |
 
 
@@ -188,3 +188,55 @@ Use it in garden topsoil or as a substrate supplement according to the mushroom'
  Use leftover broth as plant fertilizer.
 Sterilize and save grain soak water for agar, broth, and substrate.
 Incidentally, this method produces very little waste.
+
+
+# Addendum 2020: Backporting DIYbio to Shroomery
+
+The online mushroom cultivation community has developed an alternate and sometimes hilarious set of tools and methods.
+The focus on accessibility, reusability, and discretion is useful despite truly kooky phenomena like jars modfied for blender blades.
+
+This appendix is a quick walkthrough of my home lab built on the Shroomery's ethic with the BosLab's sophistication.
+PCR and agarose gels, Nanopore sequencing, thin-layer chromatography, etc., are theoretically possible.
+The question is one of reagents and balancing the cost vs. yield of more complex protocols, considering all options.
+
+
+| ![](pictures/overview.half.jpg) |
+| :-- |
+| The lab takes about 15 minutes to set up and take down. The dead air box is a storage bin and the workflow prefers reusable to disposable items, especially for suspicious waste like syringes, needles, petri dishes, chemical containers, etc. |
+
+
+There's ample working space kept sterile by a quality UV-C bulb.
+I spray things with 70% EtOH, place them in the box, and run the light for 15 min before working.
+Then I run it between actions whenever there are no biological samples inside.
+
+
+| ![](pictures/inside.half.jpg) |
+| :-- |
+| There's almost 3 ft<sup>3</sup> of sterile working space. I typically prop up the edges with Mason jars to make a sash. Shroomery wisdom dictates cutting arm holes, which of course destroys the storage bin |
+
+
+Extra supplies such as plates and tubes are available with alcohol close by.
+Eppendorf tubes, pipette tips, and Parafilm backing are the main recyclable waste.
+A steady hand keeps used tips to a minimum, unless I put it down or change samples.
+
+
+| ![](pictures/supplies.half.jpg) |
+| :-- |
+| Consumables ready to disinfect and sterilize. A grounded power strip (obscured behind) for lights, equipment, etc. The power strip also serves ground from a green wire connected at the outlet |
+
+
+The equipment is modular and changes according to my needs.
+I prefer small versions of things and adjust my workflow accordingly.
+Lab equipment is actually quite easy to come by if you're patient and diligent.
+
+Possible modules include thermocycler, electrophoresis, incubator, hotplate/stirrer, sonication, distillation, vacuum pump, microscope, etc.
+It depends on what equipment you have, what reagents you want to buy, and what standard of excellence you hope to achieve with available options.
+Some options such as vacuum distillation are very powerful and versatile techniques with little or no consumables dependencies.
+
+
+| ![](pictures/equipment.half.jpg) |
+| :-- |
+| A vortex and centrifuge are the bare essentials to shake and stir. A functional lab inventory anchors consumables sets to specific equipment, e.g., to support a microscope you need slides, slip covers, immersion oil, and Kimtech wipes |
+
+In terms of discipline, it straddles a good microbiology lab and a molecular biology one that needs improvement.
+It represents a rather deluxe version of what's required to grow mushrooms according to this protocol.
