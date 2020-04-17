@@ -141,6 +141,12 @@ This is 1 qt base, 2c supplement, and 2 tbsp salt per loosely packed load.
 Hydrate the substrate to field capacity or when a small rivulet stops 1–2s after you tightly squeeze a sample.
 Loosen and foil the lids, then sterilize for 90–120 min.
 
+
+| ![](pictures/field.capacity3.gif) |
+| :-- |
+| Properly hydrated substrate is said to be at "field capacity." From [Updated PF-Tek Guide 2017 Edition](https://www.shroomery.org/forums/showflat.php/Number/24179086) |
+
+
 Use 10–20 mL inoculum per pint of substrate or just enough to avoid standing water.
 Syringes and needles help.
 Then tighten the lids, vigorously shake them, gently tap them down, and sanitize them with 70% EtOH.
