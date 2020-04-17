@@ -136,7 +136,7 @@ For 1 plastic pint round:
 - 5–7g (1 tsp) gypsum or sea salt
 - your last coffee grounds (optional)
 
-A 23 qt pressure cooker comfortably fits 12 pints of substrate.
+A 25 qt pressure cooker comfortably fits 12 pints of substrate.
 This is 1 qt base, 2c supplement, and 2 tbsp salt per loosely packed load.
 Hydrate the substrate to field capacity or when a small rivulet stops 1–2s after you tightly squeeze a sample.
 Loosen and foil the lids, then sterilize for 90–120 min.
@@ -190,7 +190,7 @@ Sterilize and save grain soak water for agar, broth, and substrate.
 Incidentally, this method produces very little waste.
 
 
-# Addendum 2020: Backporting DIYbio to Shroomery
+## Addendum 2020: Backporting DIYbio to Shroomery
 
 The online mushroom cultivation community has developed an alternate and sometimes hilarious set of tools and methods.
 The focus on accessibility, reusability, and discretion is useful despite truly kooky phenomena like jars modfied for blender blades.
